@@ -1,1 +1,68 @@
-
+.lesson-four-task-one:hover {
+    background: gold;
+    color: rgb(215, 6, 6);
+}
+.lesson-four-task-two .link:hover {
+    background: darkgreen;
+}
+.lesson-four-task-three a.link:visited {
+    background: goldenrod;
+}
+.lesson-four-task-four .link:link {
+    color: rgb(148, 11, 11);
+}
+.lesson-four-task-five:active {
+    background: midnightblue;
+}
+.lesson-four-task-six button:focus {
+    background-color: chocolate;
+}
+.lesson-four-task-seven #target:target {
+    color: aliceblue;
+    background: forestgreen;
+}
+.lesson-four-task-eight input[type='checkbox']:checked ~ #target {
+    color: aliceblue;
+    background: darkblue;
+}
+.lesson-four-task-nine p:lang(uk) {
+    color: blue;
+}
+.lesson-four-task-ten input:enabled {
+    color: rgb(147, 4, 4);
+    background: rgb(218, 187, 8);
+}
+.lesson-four-task-eleven input:disabled {
+    background-color: gold;
+}
+.lesson-four-task-twelve input:read-write {
+    background-color: gold;
+}
+.lesson-four-task-thirteen input:read-only {
+    background-color: gold;
+}
+.lesson-four-task-fourteen input:valid {
+    background: darkgreen;
+}
+.lesson-four-task-fourteen input:invalid {
+    background: rgb(143, 5, 28);
+}
+.lesson-four-task-fifteen textarea:optional {
+    background: brown;
+}
+.lesson-four-task-sixteen input:out-of-range {
+    color: brown;
+}
+.lesson-four-task-seventeen input:in-range {
+    color: brown;
+}
+.lesson-four-task-eighteen input:placeholder-shown {
+    background: brown;
+}
+.lesson-four-task-nineteen button:focus-within {
+    color: aliceblue;
+    background-color: gold;
+}
+.lesson-four-task-twenty input:invalid {
+    background: rgb(143, 5, 28);
+}
