@@ -1,12 +1,12 @@
-.lesson-four-task-one:hover {
+.lesson-four-task-one button:hover {
     background: gold;
     color: rgb(215, 6, 6);
 }
-.lesson-four-task-two .link:hover {
+.lesson-four-task-two .link:hover ~h1 {
     background: darkgreen;
 }
 .lesson-four-task-three a.link:visited {
-    background: goldenrod;
+    color: goldenrod;
 }
 .lesson-four-task-four .link:link {
     color: rgb(148, 11, 11);
